@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032476917573",
+    "project_id": "lseven-ec032",
+    "storage_bucket": "lseven-ec032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032476917573:android:ff3c5bbb4035ec19cbc82c",
+        "android_client_info": {
+          "package_name": "net.clinicmaster.lesson_seven_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXIci33wQflWAV7a1bP-K4ipQm3K_UZsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
